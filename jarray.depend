@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1576891535 source:c:\my documents\documents\jarray\main.cpp
+	"JARRAY.h"
+	<iostream>
+
+1577908786 c:\my documents\documents\jarray\jarray.h
+	<iostream>
+	<string>
+	<cstdlib>
+	"iterator.h"
+
+1577908198 c:\my documents\documents\jarray\iterator.h
+	<iostream>
+	<string>
+	<cstdlib>
+
